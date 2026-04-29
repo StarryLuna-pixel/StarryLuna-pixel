@@ -33,7 +33,7 @@ What drives me most is the gap between *what I can build* and *what I truly unde
 | Project | What It Does | Stack |
 |---------|-------------|-------|
 | [🎮 Coding Carnival](https://github.com/STarryLuna-pixel/coding-carnival) | A multi-language gamified escape room that teaches coding and analytical thinking through themed challenges, storytelling, and interactive progression | Python · JavaScript · HTML/CSS · AI |
-| [🏏 Predictive Analysis in Cricket](https://github.com/STarryLuna-pixel/cricket-analysis) | Machine learning-based cricket outcome analysis with predictive insights and data-driven strategy exploration | Python · Scikit-learn · Tableau |
+| [🏏 Predictive Analysis in Cricket](https://github.com/StarryLuna-pixel/Predictive-Analysis-in-Cricket) | Machine learning-based cricket outcome analysis with predictive insights and data-driven strategy exploration | Python · Scikit-learn · Tableau |
 | [🤖 AI Chatbot Portfolio](https://github.com/STarryLuna-pixel/ai-chatbot-portfolio) | A portfolio chatbot that enables natural language interaction with projects, skills, and profile content | Python · NLP |
 
 ---
