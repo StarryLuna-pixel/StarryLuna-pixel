@@ -56,7 +56,7 @@ What drives me most is the gap between *what I can build* and *what I truly unde
 ---
 <div align="center">
 
-*Mumbai, India · Open to research collaborations, internships, and graduate opportunities*
+*Mumbai, India · Open to internships, entry-level roles, and project collaborations*
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrudula-shenoy-072024265)
