@@ -1,18 +1,3 @@
-<div align="center">
-<img src="mrudula_banner.svg" width="100%"/>
-</div>
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:60a5fa&height=220&section=header&text=Hey,%20I'm%20Mrudula%20Shenoy&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%C2%B7%20NLP%20%C2%B7%20Computer%20Vision%20%C2%B7%20Intelligent%20Systems&descAlignY=57&descSize=15" width="100%"/>
-</div>
-<br/>
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Final-year+Data+Science+student;Building+things+that+think;NLP+%7C+Computer+Vision+%7C+ML;Oracle+Cloud+Infrastructure+Certified;Applying+to+MSc+Artificial+Intelligence+%40+USI+Switzerland)](https://git.io/typing-svg)
-</div>
-<br/>
-
 ---
 ## ✦ About Me
 
